@@ -13,7 +13,3 @@ console.log(letVariable);
 console.log(varVariable);
 console.log(constVariable);
 console.table([simpleVariable, letVariable, varVariable, constVariable]);
-
-if (constVariable) {
-    
-}
