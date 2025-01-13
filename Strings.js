@@ -3,7 +3,7 @@ const age = 20;
 
 // console.log(name + " " + age + " value")
 
-console.log(`helli my name is ${name.toUpperCase()} and my age is ${age}`); 
+console.log(`hello my name is ${name.toUpperCase()} and my age is ${age}`); 
 
 const StringEx = new String('dhavalGohel')
 
